@@ -2,3 +2,4 @@ banana
 apple
 葡萄
 西瓜
+草莓
